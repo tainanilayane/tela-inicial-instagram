@@ -1,1 +1,1 @@
-#Projeto Tela inicial do Instagram
+Projeto: Tela Inicial do Instagram
